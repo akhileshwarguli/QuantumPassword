@@ -1,0 +1,9 @@
+{
+  "name": "quantumpasswords",
+  "title": "Quantum Passwords",
+  "id": "jid1-M1uEdcivkJ4YxA",
+  "description": "An add-on that works with the Firefox password manager by resetting your password to a site whenever you log in and storing the new password in the Firefox password manager.",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}

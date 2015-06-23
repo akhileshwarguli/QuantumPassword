@@ -1,0 +1,10 @@
+[URL of the site's login page]	[URL of the site's password reset page]
+https://accounts.google.com/	https://accounts.google.com/b/0/EditPasswd?hl=en
+https://www.facebook.com/	https://www.facebook.com/settings?tab=account&section=password
+http://tgdmb.com/	http://tgdmb.com/profile.php?mode=editprofile
+http://www.tgdmb.com/	http://tgdmb.com/profile.php?mode=editprofile
+https://pib.secure-banking.com/60394001/	https://pib.secure-banking.com/60394001/PrefChangePassword.faces
+https://pib.secure-banking.com/60393001/	https://pib.secure-banking.com/60393001/PrefChangePassword.faces
+http://www.linkedin.com/	https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1
+https://www.linkedin.com/	https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1
+https://login.yahoo.com/	https://edit.yahoo.com/config/change_pw?.scrumb=hTz9QAQX1LF&.done=https%3A%2F%2Fedit.yahoo.com%2Fmc2.0%2Feval_profile%3F.scrumb%3DhTz9QAQX1LF%26.scrumb2%3Dkc1DSFrC5EJ

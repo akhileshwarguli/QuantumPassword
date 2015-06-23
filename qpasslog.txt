@@ -1,0 +1,234 @@
+17:40:15 
+
+New log Thu Jan 15 2015 17:40:15 GMT-0600 (Central Standard Time)
+17:40:32 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:32 reset-script: Form 1 is a login form
+17:40:32 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:33 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:33 reset-script: Form 1 is a login form
+17:40:33 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:34 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:34 reset-script: Form 1 is a login form
+17:40:34 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:35 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:35 reset-script: Form 1 is a login form
+17:40:35 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:36 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:36 reset-script: Form 1 is a login form
+17:40:36 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:38 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:40:38 reset-script: Form 1 is a login form
+17:40:38 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:40:38 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmp6je8jt.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:144: TypeError: worker is undefined
+17:51:23 
+
+New log Thu Jan 15 2015 17:51:23 GMT-0600 (Central Standard Time)
+17:51:37 
+
+New log Thu Jan 15 2015 17:51:37 GMT-0600 (Central Standard Time)
+17:51:47 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:51:47 reset-script: Form 1 is a login form
+17:51:47 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:51:48 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:51:48 reset-script: Form 1 is a login form
+17:51:48 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:51:50 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:51:50 reset-script: Form 1 is a login form
+17:51:50 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:52:12 
+
+New log Thu Jan 15 2015 17:52:12 GMT-0600 (Central Standard Time)
+17:52:51 
+
+New log Thu Jan 15 2015 17:52:51 GMT-0600 (Central Standard Time)
+17:53:7 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:53:7 reset-script: Form 1 is a login form
+17:53:7 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:53:8 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:53:8 reset-script: Form 1 is a login form
+17:53:8 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:53:10 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:53:10 reset-script: Form 1 is a login form
+17:53:10 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:54:37 
+
+New log Thu Jan 15 2015 17:54:37 GMT-0600 (Central Standard Time)
+17:54:45 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:54:45 reset-script: Form 1 is a login form
+17:54:45 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+17:54:46 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+17:54:46 reset-script: Form 1 is a login form
+17:54:46 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+19:35:47 
+
+New log Thu Jan 15 2015 19:35:47 GMT-0600 (Central Standard Time)
+19:36:5 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+19:36:5 reset-script: Form 1 is a login form
+19:36:5 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+19:36:6 reset-script: Resetting pass on http://tgdmb.com/login.php?redirect=profile.php&mode=editprofile with 2 forms
+19:36:6 reset-script: Form 1 is a login form
+19:36:6 reset-script: handleLoginForm: Determined page was login screen and tried to log in
+19:36:7 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmpgjb0r5.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:144: TypeError: worker is undefined
+19:40:25 
+
+New log Thu Jan 15 2015 19:40:25 GMT-0600 (Central Standard Time)
+19:41:11 
+
+New log Thu Jan 15 2015 19:41:11 GMT-0600 (Central Standard Time)
+19:41:30 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmpj3qprx.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: ReferenceError: deferred is not defined
+19:42:8 
+
+New log Thu Jan 15 2015 19:42:08 GMT-0600 (Central Standard Time)
+19:42:30 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmp4oag1l.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+12:37:39 
+
+New log Wed Jan 21 2015 12:37:39 GMT-0600 (Central Standard Time)
+12:38:17 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmp7nhx84.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+12:38:34 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmp7nhx84.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+12:41:30 
+
+New log Wed Jan 21 2015 12:41:30 GMT-0600 (Central Standard Time)
+12:41:39 resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///c:/users/mike/appdata/local/temp/tmpjhla3v.mozrunner/extensions/jid1-M1uEdcivkJ4YxA@jetpack.xpi!/bootstrap.js -> resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+14:19:35 
+
+New log Sat Jun 20 2015 14:19:35 GMT-0500 (Central Standard Time)
+14:20:2 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+14:23:25 
+
+New log Sat Jun 20 2015 14:23:25 GMT-0500 (Central Standard Time)
+14:23:29 fliud.testuser@gmail.com set as default email address.
+14:23:34 Unable to attach submit listener: forms was null on undefined
+14:23:46 Unable to attach submit listener: forms was null on undefined
+14:29:6 
+
+New log Sat Jun 20 2015 14:29:06 GMT-0500 (Central Standard Time)
+14:29:8 fliud.testuser@gmail.com set as default email address.
+14:29:46 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+1:57:32 
+
+New log Mon Jun 22 2015 01:57:32 GMT-0500 (Central Standard Time)
+1:58:17 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+1:58:29 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+1:59:55 
+
+New log Mon Jun 22 2015 01:59:55 GMT-0500 (Central Standard Time)
+2:0:20 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:325: Error: main-js: initial login failed.
+2:17:10 
+
+New log Mon Jun 22 2015 02:17:10 GMT-0500 (Central Standard Time)
+2:18:2 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:18:47 
+
+New log Mon Jun 22 2015 02:18:47 GMT-0500 (Central Standard Time)
+2:18:50 fliud.testuser@gmail.com set as default email address.
+2:19:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+10:32:39 
+
+New log Tue Jun 23 2015 10:32:39 GMT-0500 (Central Standard Time)
+10:32:43 fliud.testuser@gmail.com set as default email address.
+10:32:49 Unable to attach submit listener: forms was null on undefined
+10:33:21 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+10:34:15 
+
+New log Tue Jun 23 2015 10:34:15 GMT-0500 (Central Standard Time)
+10:34:19 fliud.testuser@gmail.com set as default email address.
+10:34:25 Unable to attach submit listener: forms was null on undefined
+10:34:43 reset-script: Resetting pass on https://www.amazon.com/ap/forgotpassword?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin&prevRID=KZH43R1WX00FFKASWENV&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=usflex&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 with 2 forms
+11:5:22 
+
+New log Tue Jun 23 2015 11:05:22 GMT-0500 (Central Standard Time)
+11:5:26 fliud.testuser@gmail.com set as default email address.
+11:5:29 Unable to attach submit listener: forms was null on undefined
+11:5:53 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+11:37:28 
+
+New log Tue Jun 23 2015 11:37:28 GMT-0500 (Central Standard Time)
+11:37:35 fliud.testuser@gmail.com set as default email address.
+11:38:6 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+12:59:36 
+
+New log Tue Jun 23 2015 12:59:36 GMT-0500 (Central Standard Time)
+13:0:23 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:5:4 
+
+New log Tue Jun 23 2015 13:05:04 GMT-0500 (Central Standard Time)
+13:5:32 
+
+New log Tue Jun 23 2015 13:05:32 GMT-0500 (Central Standard Time)
+13:5:36 Unable to attach submit listener: forms was null on undefined
+13:6:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:15:56 
+
+New log Tue Jun 23 2015 13:15:56 GMT-0500 (Central Standard Time)
+13:15:59 Unable to attach submit listener: forms was null on undefined
+13:16:27 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:20:42 
+
+New log Tue Jun 23 2015 13:20:42 GMT-0500 (Central Standard Time)
+13:20:47 Unable to attach submit listener: forms was null on undefined
+13:21:14 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:328: Error: main-js: initial login failed.
+13:25:58 
+
+New log Tue Jun 23 2015 13:25:58 GMT-0500 (Central Standard Time)
+13:26:3 Unable to attach submit listener: forms was null on undefined
+13:26:39 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:328: Error: main-js: initial login failed.
+13:32:18 
+
+New log Tue Jun 23 2015 13:32:18 GMT-0500 (Central Standard Time)
+13:32:25 Unable to attach submit listener: forms was null on undefined
+13:32:47 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:328: Error: main-js: initial login failed.
+13:35:5 
+
+New log Tue Jun 23 2015 13:35:05 GMT-0500 (Central Standard Time)
+13:35:12 Unable to attach submit listener: forms was null on undefined
+13:35:30 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:328: Error: main-js: initial login failed.
+13:46:23 
+
+New log Tue Jun 23 2015 13:46:23 GMT-0500 (Central Standard Time)
+13:46:27 Unable to attach submit listener: forms was null on undefined
+13:46:53 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:51:18 
+
+New log Tue Jun 23 2015 13:51:18 GMT-0500 (Central Standard Time)
+13:51:24 Unable to attach submit listener: forms was null on undefined
+13:51:47 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:53:36 
+
+New log Tue Jun 23 2015 13:53:36 GMT-0500 (Central Standard Time)
+13:53:40 Unable to attach submit listener: forms was null on undefined
+13:53:58 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:57:11 
+
+New log Tue Jun 23 2015 13:57:11 GMT-0500 (Central Standard Time)
+13:57:14 Unable to attach submit listener: forms was null on undefined
+13:57:33 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:11:48 
+
+New log Tue Jun 23 2015 14:11:48 GMT-0500 (Central Standard Time)
+14:11:53 Unable to attach submit listener: forms was null on undefined
+14:12:39 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:14:31 
+
+New log Tue Jun 23 2015 14:14:31 GMT-0500 (Central Standard Time)
+14:14:35 Unable to attach submit listener: forms was null on undefined
+14:15:6 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:20:15 
+
+New log Tue Jun 23 2015 14:20:15 GMT-0500 (Central Standard Time)
+14:20:20 Unable to attach submit listener: forms was null on undefined
+14:20:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:22:21 
+
+New log Tue Jun 23 2015 14:22:21 GMT-0500 (Central Standard Time)
+14:22:24 Unable to attach submit listener: forms was null on undefined
+14:22:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:24:59 
+
+New log Tue Jun 23 2015 14:24:59 GMT-0500 (Central Standard Time)
+14:25:1 Unable to attach submit listener: forms was null on undefined
+14:25:19 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:25:20 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:25:24 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:25:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:25:27 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:25:29 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
