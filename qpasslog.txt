@@ -232,3 +232,592 @@ New log Tue Jun 23 2015 14:24:59 GMT-0500 (Central Standard Time)
 14:25:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
 14:25:27 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
 14:25:29 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:12:6 
+
+New log Wed Jun 24 2015 14:12:06 GMT-0500 (Central Standard Time)
+14:12:28 Unable to attach submit listener: forms was null on undefined
+14:13:3 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:5 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:7 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:9 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:12 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:13 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:18 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:20 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:13:21 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:59 
+
+New log Wed Jun 24 2015 16:00:59 GMT-0500 (Central Standard Time)
+16:1:9 Unable to attach submit listener: forms was null on undefined
+16:1:43 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password with 2 forms
+16:1:43 reset-script: Current pass: Akhil12#
+16:1:43 reset-script: New password chosen: 5%gSs]o/[q\W
+16:5:10 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:339: Error: main-js: initial login failed.
+18:1:40 
+
+New log Wed Jun 24 2015 18:01:40 GMT-0500 (Central Standard Time)
+18:1:48 Unable to attach submit listener: forms was null on undefined
+18:2:45 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+21:30:37 
+
+New log Wed Jun 24 2015 21:30:37 GMT-0500 (Central Standard Time)
+21:34:36 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+21:35:22 
+
+New log Wed Jun 24 2015 21:35:22 GMT-0500 (Central Standard Time)
+21:35:53 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+21:35:54 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+22:15:8 
+
+New log Wed Jun 24 2015 22:15:08 GMT-0500 (Central Standard Time)
+22:15:40 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+22:15:42 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:25:14 
+
+New log Thu Jun 25 2015 02:25:14 GMT-0500 (Central Standard Time)
+2:25:17 fliud.testuser@gmail.com set as default email address.
+2:27:36 
+
+New log Thu Jun 25 2015 02:27:36 GMT-0500 (Central Standard Time)
+2:28:45 
+
+New log Thu Jun 25 2015 02:28:45 GMT-0500 (Central Standard Time)
+2:37:43 
+
+New log Thu Jun 25 2015 02:37:43 GMT-0500 (Central Standard Time)
+4:1:27 
+
+New log Thu Jun 25 2015 04:01:27 GMT-0500 (Central Standard Time)
+4:1:52 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:402: ReferenceError: minoreDeferred is not defined
+4:1:52 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:2:46 
+
+New log Thu Jun 25 2015 04:02:46 GMT-0500 (Central Standard Time)
+4:3:8 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:402: ReferenceError: minoreDeferred is not defined
+4:3:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:6:11 
+
+New log Thu Jun 25 2015 04:06:11 GMT-0500 (Central Standard Time)
+4:6:37 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:6:40 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:6:44 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:6:47 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:10:21 
+
+New log Thu Jun 25 2015 04:10:21 GMT-0500 (Central Standard Time)
+4:10:59 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:11:1 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:11:3 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:11:6 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:11:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+12:55:32 
+
+New log Thu Jun 25 2015 12:55:32 GMT-0500 (Central Standard Time)
+12:56:2 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+12:56:4 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+12:56:7 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:56:25 
+
+New log Thu Jun 25 2015 15:56:25 GMT-0500 (Central Standard Time)
+15:56:40 Unable to attach submit listener: forms was null on undefined
+16:0:29 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:31 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:33 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:35 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:37 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:39 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:41 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:44 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:47 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:1:27 
+
+New log Thu Jun 25 2015 16:01:27 GMT-0500 (Central Standard Time)
+16:1:31 Unable to attach submit listener: forms was null on undefined
+16:5:41 
+
+New log Thu Jun 25 2015 16:05:41 GMT-0500 (Central Standard Time)
+16:6:17 reset-script: Resetting pass on http://www.amazon.com/gp/product/B00MV9EL6M/ref=s9_pop_gw_g65_i13?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-6&pf_rd_r=0DX0R8T4A24FAHV43W98&pf_rd_t=36701&pf_rd_p=2090150982&pf_rd_i=desktop with 6 forms
+16:6:22 reset-script: Resetting pass on http://www.amazon.com/gp/product/B00MV9EL6M/ref=s9_pop_gw_g65_i13?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-6&pf_rd_r=0DX0R8T4A24FAHV43W98&pf_rd_t=36701&pf_rd_p=2090150982&pf_rd_i=desktop with 6 forms
+16:6:38 
+
+New log Thu Jun 25 2015 16:06:38 GMT-0500 (Central Standard Time)
+16:7:5 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:7:6 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:7:9 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:7:11 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:7:12 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:14:16 
+
+New log Thu Jun 25 2015 16:14:16 GMT-0500 (Central Standard Time)
+16:14:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:14:43 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:11:7 
+
+New log Thu Jun 25 2015 17:11:07 GMT-0500 (Central Standard Time)
+17:11:44 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+17:11:47 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+17:11:48 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:12:32 
+
+New log Thu Jun 25 2015 17:12:32 GMT-0500 (Central Standard Time)
+17:13:3 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+17:13:3 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:14:24 
+
+New log Thu Jun 25 2015 17:14:24 GMT-0500 (Central Standard Time)
+17:14:45 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:14:47 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:14:47 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:15:28 
+
+New log Thu Jun 25 2015 17:15:28 GMT-0500 (Central Standard Time)
+17:15:43 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:15:48 reset-script: Resetting pass on https://www.paypal.com/us/webapps/mpp/pay-online/?utm_source=BASx-FBMarketplace&utm_medium=Interestsx&utm_campaign=Rural1820M&UTM_Content=SIMPLFY&UTM_Campaign=RightHS&mpcs=bypass&mpch=ads&rftp=7&srce=cnvr&ercc=27722-210208-13764-501&spid=871702896811085239 with 2 forms
+17:15:49 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:16:24 
+
+New log Thu Jun 25 2015 17:16:24 GMT-0500 (Central Standard Time)
+17:16:50 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:16:52 reset-script: Resetting pass on https://www.paypal.com/us/webapps/mpp/pay-online/?utm_source=BASx-FBMarketplace&utm_medium=Interestsx&utm_campaign=Rural1820M&UTM_Content=SIMPLFY&UTM_Campaign=RightHS&mpcs=bypass&mpch=ads&rftp=7&srce=cnvr&ercc=27722-210208-13764-501&spid=871702896811085239 with 2 forms
+17:16:53 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:17:53 
+
+New log Thu Jun 25 2015 17:17:53 GMT-0500 (Central Standard Time)
+17:18:16 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:18:19 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:18:19 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:24:1 
+
+New log Thu Jun 25 2015 17:24:01 GMT-0500 (Central Standard Time)
+17:24:20 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:24:22 reset-script: Resetting pass on https://www.paypal.com/us/webapps/mpp/pay-online/?utm_source=BASx-FBMarketplace&utm_medium=Interestsx&utm_campaign=Rural1820M&UTM_Content=SECURTY&UTM_Campaign=RightHS&mpcs=bypass&mpch=ads&rftp=7&srce=cnvr&ercc=27722-210208-13764-483&spid=871702896811085239 with 2 forms
+17:24:23 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:24:40 
+
+New log Thu Jun 25 2015 17:24:40 GMT-0500 (Central Standard Time)
+17:24:58 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:25:0 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:25:1 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:26:43 
+
+New log Thu Jun 25 2015 17:26:43 GMT-0500 (Central Standard Time)
+17:27:8 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:27:10 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:27:12 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:27:14 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:27:16 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 0 forms
+17:27:19 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:27:21 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:27:24 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:53:33 
+
+New log Thu Jun 25 2015 17:53:33 GMT-0500 (Central Standard Time)
+17:54:32 
+
+New log Thu Jun 25 2015 17:54:32 GMT-0500 (Central Standard Time)
+17:55:10 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+17:55:12 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:55:14 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+17:55:17 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+18:54:2 
+
+New log Thu Jun 25 2015 18:54:02 GMT-0500 (Central Standard Time)
+18:54:26 
+
+New log Thu Jun 25 2015 18:54:26 GMT-0500 (Central Standard Time)
+18:54:30 Unable to attach submit listener: forms was null on undefined
+18:56:38 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+18:58:15 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+20:13:50 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+20:15:26 
+
+New log Thu Jun 25 2015 20:15:26 GMT-0500 (Central Standard Time)
+20:16:26 
+
+New log Thu Jun 25 2015 20:16:26 GMT-0500 (Central Standard Time)
+20:18:20 
+
+New log Thu Jun 25 2015 20:18:20 GMT-0500 (Central Standard Time)
+20:18:36 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:555: ReferenceError: tab is not defined
+20:21:48 
+
+New log Thu Jun 25 2015 20:21:48 GMT-0500 (Central Standard Time)
+20:22:6 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password with 2 forms
+20:22:6 reset-script: Current pass: Welcome12#
+20:22:6 reset-script: New password chosen: s9I^w|b4{A)J
+20:25:3 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:350: Error: main-js: initial login failed.
+20:25:41 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:350: Error: main-js: initial login failed.
+20:26:21 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+20:28:23 
+
+New log Thu Jun 25 2015 20:28:23 GMT-0500 (Central Standard Time)
+20:28:58 
+
+New log Thu Jun 25 2015 20:28:58 GMT-0500 (Central Standard Time)
+20:29:38 
+
+New log Thu Jun 25 2015 20:29:38 GMT-0500 (Central Standard Time)
+20:29:43 fliud.testuser@gmail.com set as default email address.
+20:30:1 reset-script: Resetting pass on https://www.facebook.com/ with 7 forms
+20:30:3 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+20:30:5 reset-script: Resetting pass on https://www.facebook.com/settings?ref=mb with 1 forms
+20:30:6 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password with 2 forms
+20:30:6 reset-script: Current pass: Welcome12#
+20:30:6 reset-script: New password chosen: Mkth7u]u^:24
+20:32:16 
+
+New log Thu Jun 25 2015 20:32:16 GMT-0500 (Central Standard Time)
+20:32:40 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+20:32:44 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+20:32:46 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+20:32:46 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+20:49:5 
+
+New log Thu Jun 25 2015 20:49:05 GMT-0500 (Central Standard Time)
+20:49:48 reset-script: Resetting pass on http://www.amazon.com/gp/product/B00MV9EL6M/ref=s9_pop_gw_g65_i8?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-2&pf_rd_r=00NWYBFZ75CG5824K7VA&pf_rd_t=36701&pf_rd_p=2091268582&pf_rd_i=desktop with 7 forms
+20:49:50 reset-script: Resetting pass on http://www.amazon.com/antivirus-security-protection-utilities-software/b/ref=dp_bc_2?ie=UTF8&node=229677 with 5 forms
+20:49:56 reset-script: Resetting pass on http://www.amazon.com/b/ref=s9_hfnv_hd_bw_ir01_b?_encoding=UTF8&node=2251987011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-2&pf_rd_r=055N92ES33N3KYTXP4WM&pf_rd_t=101&pf_rd_p=2071190122&pf_rd_i=229677 with 5 forms
+20:50:9 reset-script: Resetting pass on http://www.amazon.com/s/ref=lp_2251987011_hi_2?rh=n%3A229534%2Cn%3A%21491286%2Cn%3A229677&ie=UTF8&qid=1435283392 with 5 forms
+20:50:13 reset-script: Resetting pass on http://www.amazon.com/b/ref=s9_hfnv_hd_bw_ir01_b?_encoding=UTF8&node=2251987011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-2&pf_rd_r=1Q7Q8NB6R1GRX1YPZAV0&pf_rd_t=101&pf_rd_p=2071190122&pf_rd_i=229677 with 5 forms
+20:50:16 reset-script: Resetting pass on http://www.amazon.com/s/ref=lp_2251987011_hi_2?rh=n%3A229534%2Cn%3A%21491286%2Cn%3A229677&ie=UTF8&qid=1435283411 with 5 forms
+20:50:45 
+
+New log Thu Jun 25 2015 20:50:45 GMT-0500 (Central Standard Time)
+20:50:50 fliud.testuser@gmail.com set as default email address.
+20:51:13 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+20:51:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+20:51:20 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+20:51:59 
+
+New log Thu Jun 25 2015 20:51:59 GMT-0500 (Central Standard Time)
+20:52:2 fliud.testuser@gmail.com set as default email address.
+20:52:28 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+20:52:29 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+20:52:32 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+20:52:32 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:383: Error: main-js: updatePassword: search produced no new URL, abandoning search
+20:54:37 
+
+New log Thu Jun 25 2015 20:54:37 GMT-0500 (Central Standard Time)
+20:55:5 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+20:55:11 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+13:37:20 
+
+New log Fri Jun 26 2015 13:37:20 GMT-0500 (Central Standard Time)
+13:38:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:38:10 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:50:52 
+
+New log Fri Jun 26 2015 15:50:52 GMT-0500 (Central Standard Time)
+15:51:28 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:51:30 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:54:34 
+
+New log Fri Jun 26 2015 15:54:34 GMT-0500 (Central Standard Time)
+15:54:56 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:54:58 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:47:40 
+
+New log Fri Jun 26 2015 16:47:40 GMT-0500 (Central Standard Time)
+16:48:32 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:48:34 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:56:57 
+
+New log Fri Jun 26 2015 16:56:57 GMT-0500 (Central Standard Time)
+16:57:23 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:57:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+17:1:6 
+
+New log Fri Jun 26 2015 17:01:06 GMT-0500 (Central Standard Time)
+17:1:29 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+17:1:30 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+17:4:38 
+
+New log Fri Jun 26 2015 17:04:38 GMT-0500 (Central Standard Time)
+17:4:56 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+17:4:59 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:12:41 
+
+New log Fri Jun 26 2015 18:12:41 GMT-0500 (Central Standard Time)
+18:13:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:13:19 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:19:44 
+
+New log Fri Jun 26 2015 18:19:44 GMT-0500 (Central Standard Time)
+18:20:6 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:378: ReferenceError: newReserURL is not defined
+18:20:45 
+
+New log Fri Jun 26 2015 18:20:45 GMT-0500 (Central Standard Time)
+18:21:7 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:21:10 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:27:45 
+
+New log Fri Jun 26 2015 18:27:45 GMT-0500 (Central Standard Time)
+18:28:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:28:10 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:28:11 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:384: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:30:49 
+
+New log Fri Jun 26 2015 18:30:49 GMT-0500 (Central Standard Time)
+18:31:23 resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:41: Error: The event listener must be a function.
+18:32:12 
+
+New log Fri Jun 26 2015 18:32:12 GMT-0500 (Central Standard Time)
+18:32:34 resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:41: Error: The event listener must be a function.
+18:33:57 
+
+New log Fri Jun 26 2015 18:33:57 GMT-0500 (Central Standard Time)
+18:34:22 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:34:25 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:34:29 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:384: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:9:18 
+
+New log Sat Jun 27 2015 18:09:18 GMT-0500 (Central Standard Time)
+18:9:45 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:9:47 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:9:47 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:395: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:12:54 
+
+New log Sat Jun 27 2015 18:12:54 GMT-0500 (Central Standard Time)
+18:13:28 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:13:30 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:13:31 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:395: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:24:9 
+
+New log Sat Jun 27 2015 18:24:09 GMT-0500 (Central Standard Time)
+18:24:31 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:24:33 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:24:33 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:395: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:36:51 
+
+New log Sat Jun 27 2015 18:36:51 GMT-0500 (Central Standard Time)
+18:37:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+18:37:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:37:21 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:396: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:51:15 
+
+New log Sat Jun 27 2015 18:51:15 GMT-0500 (Central Standard Time)
+18:51:46 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:51:48 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:51:48 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:394: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:55:58 
+
+New log Sat Jun 27 2015 18:55:58 GMT-0500 (Central Standard Time)
+18:56:20 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:56:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:56:22 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:394: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:57:18 
+
+New log Sat Jun 27 2015 18:57:18 GMT-0500 (Central Standard Time)
+18:57:45 reset-script: Resetting pass on https://www.facebook.com/ with 6 forms
+18:57:48 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+18:57:50 reset-script: Resetting pass on https://www.facebook.com/settings?ref=mb with 1 forms
+18:57:52 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password with 2 forms
+18:57:52 reset-script: Current pass: Welcome12#
+18:57:52 reset-script: New password chosen: ,iS)#u/?oU|p
+19:16:44 
+
+New log Sat Jun 27 2015 19:16:44 GMT-0500 (Central Standard Time)
+19:17:2 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:17:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:17:7 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:394: Error: main-js: updatePassword: search produced no new URL, abandoning search
+19:27:46 
+
+New log Sat Jun 27 2015 19:27:46 GMT-0500 (Central Standard Time)
+19:28:45 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:28:47 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:24:58 
+
+New log Sun Jun 28 2015 00:24:58 GMT-0500 (Central Standard Time)
+0:25:30 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+0:25:35 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:25:36 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+0:25:36 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:201: ReferenceError: wtab is not defined
+0:25:36 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:201: ReferenceError: wtab is not defined
+0:26:40 
+
+New log Sun Jun 28 2015 00:26:40 GMT-0500 (Central Standard Time)
+0:27:3 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+0:27:18 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:27:18 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+1:29:17 
+
+New log Sun Jun 28 2015 01:29:17 GMT-0500 (Central Standard Time)
+1:34:34 
+
+New log Sun Jun 28 2015 01:34:34 GMT-0500 (Central Standard Time)
+1:36:29 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+1:36:33 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+1:36:34 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+2:15:51 
+
+New log Sun Jun 28 2015 02:15:51 GMT-0500 (Central Standard Time)
+2:17:2 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:17:6 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+2:17:6 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+13:31:10 
+
+New log Sun Jun 28 2015 13:31:10 GMT-0500 (Central Standard Time)
+13:31:38 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+13:31:40 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+13:31:40 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+18:17:16 
+
+New log Sun Jun 28 2015 18:17:16 GMT-0500 (Central Standard Time)
+18:19:5 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+18:19:8 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:19:13 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:431: TypeError: resetURL is null
+18:32:43 
+
+New log Sun Jun 28 2015 18:32:43 GMT-0500 (Central Standard Time)
+18:33:16 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:33:18 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:33:23 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=wE9QiZ5X9EC7SLfOxC7X90Xt8WIj3D&appAction=CNEP_PWD&openid.pape.max_auth_age=ape%3AMA%3D%3D&openid.return_to=ape%3AaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9jc3MvaG9tZXBhZ2UuaHRtbD9pZT1VVEY4JnJlZl89eWFfY25lcA%3D%3D&prevRID=ape%3ATThYR0pYNTVCSjVXM1hHWFJSOUE%3D&openid.identity=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&openid.assoc_handle=ape%3AdXNmbGV4&openid.mode=ape%3AY2hlY2tpZF9zZXR1cA%3D%3D&openid.ns.pape=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvZXh0ZW5zaW9ucy9wYXBlLzEuMA%3D%3D&openid.claimed_id=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&pageId=ape%3AdXNmbGV4&returnOnSuccess=ape%3AZmFsc2U%3D&openid.ns=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:33:23 reset-script: Current pass: Welcome12#
+18:33:23 reset-script: New password chosen: ]_b*U$aFJpcL
+4:35:49 
+
+New log Mon Jun 29 2015 04:35:49 GMT-0500 (Central Standard Time)
+4:36:32 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:36:39 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:36:45 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=T9y1JnD9QCCdXnWtaUaJWqMT2fUj3D&appAction=CNEP_PWD&openid.pape.max_auth_age=ape%3AMA%3D%3D&openid.return_to=ape%3AaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9jc3MvaG9tZXBhZ2UuaHRtbD9pZT1VVEY4JnJlZl89eWFfY25lcA%3D%3D&prevRID=ape%3ARkI3RzNFMDhFSldENjNONldSR0g%3D&openid.identity=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&openid.assoc_handle=ape%3AdXNmbGV4&openid.mode=ape%3AY2hlY2tpZF9zZXR1cA%3D%3D&openid.ns.pape=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvZXh0ZW5zaW9ucy9wYXBlLzEuMA%3D%3D&openid.claimed_id=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&pageId=ape%3AdXNmbGV4&returnOnSuccess=ape%3AZmFsc2U%3D&openid.ns=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:36:45 reset-script: Current pass: Welcome12#
+4:36:45 reset-script: New password chosen: u:'MuQ4G:%kK
+4:36:45 reset-script: windows.addEventListener() did not fire.
+14:31:19 
+
+New log Mon Jun 29 2015 14:31:19 GMT-0500 (Central Standard Time)
+14:31:41 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+14:31:42 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+14:31:47 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=OrOLUMYzD3PJb37oeMHB19p8YhMj3D&appAction=CNEP_PWD&openid.pape.max_auth_age=ape%3AMA%3D%3D&openid.return_to=ape%3AaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9jc3MvaG9tZXBhZ2UuaHRtbD9pZT1VVEY4JnJlZl89eWFfY25lcA%3D%3D&prevRID=ape%3ARFJGUEpLREU0UEFYRlZWR1JXMjk%3D&openid.identity=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&openid.assoc_handle=ape%3AdXNmbGV4&openid.mode=ape%3AY2hlY2tpZF9zZXR1cA%3D%3D&openid.ns.pape=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvZXh0ZW5zaW9ucy9wYXBlLzEuMA%3D%3D&openid.claimed_id=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&pageId=ape%3AdXNmbGV4&returnOnSuccess=ape%3AZmFsc2U%3D&openid.ns=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+14:31:47 reset-script: Current pass: Welcome12#
+14:31:47 reset-script: New password chosen: OUOU{Uy=A.x&
+14:31:47 reset-script: windows.addEventListener() did not fire.
+15:2:13 
+
+New log Mon Jun 29 2015 15:02:13 GMT-0500 (Central Standard Time)
+15:4:18 
+
+New log Mon Jun 29 2015 15:04:18 GMT-0500 (Central Standard Time)
+15:5:13 
+
+New log Mon Jun 29 2015 15:05:13 GMT-0500 (Central Standard Time)
+15:6:37 
+
+New log Mon Jun 29 2015 15:06:37 GMT-0500 (Central Standard Time)
+15:7:9 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:7:10 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:7:16 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=dmECWO8mVqKXAEj2Bx9nlYRww0MC0j3D&appAction=CNEP_PWD&openid.pape.max_auth_age=ape%3AMA%3D%3D&openid.return_to=ape%3AaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9jc3MvaG9tZXBhZ2UuaHRtbD9pZT1VVEY4JnJlZl89eWFfY25lcA%3D%3D&prevRID=ape%3AQTkzOTRTMVNDMVA3Q1BQVERCWVE%3D&openid.identity=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&openid.assoc_handle=ape%3AdXNmbGV4&openid.mode=ape%3AY2hlY2tpZF9zZXR1cA%3D%3D&openid.ns.pape=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvZXh0ZW5zaW9ucy9wYXBlLzEuMA%3D%3D&openid.claimed_id=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjAvaWRlbnRpZmllcl9zZWxlY3Q%3D&pageId=ape%3AdXNmbGV4&returnOnSuccess=ape%3AZmFsc2U%3D&openid.ns=ape%3AaHR0cDovL3NwZWNzLm9wZW5pZC5uZXQvYXV0aC8yLjA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+15:7:16 reset-script: Current pass: Welcome12#
+15:7:16 reset-script: New password chosen: /UOU=^82MBZH
+15:7:16 reset-script: windows.addEventListener() did not fire.
+15:39:18 
+
+New log Mon Jun 29 2015 15:39:18 GMT-0500 (Central Standard Time)
+15:39:44 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:39:45 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:39:51 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=j2Bj2FxnbJuLeDykyQwIuUtUCRwRa0Uj3D...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+15:39:51 reset-script: Current pass: Welcome12#
+15:39:51 reset-script: New password chosen: O#DHg"5`V^1p
+15:39:51 reset-script: windows.addEventListener() did not fire.
+15:52:0 
+
+New log Mon Jun 29 2015 15:52:00 GMT-0500 (Central Standard Time)
+15:52:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:52:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:52:32 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=YvJRP74uP6NcK6WcgenYDm6wYMYj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+15:52:32 reset-script: Current pass: Welcome12#
+15:52:32 reset-script: New password chosen: 0=bd/EG[a?k(
+15:52:32 reset-script: windows.addEventListener() did not fire.
+15:56:22 
+
+New log Mon Jun 29 2015 15:56:22 GMT-0500 (Central Standard Time)
+15:56:49 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+15:56:50 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+15:56:56 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:412: TypeError: newResetURL is undefined
+15:59:39 
+
+New log Mon Jun 29 2015 15:59:39 GMT-0500 (Central Standard Time)
+16:0:19 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:0:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:0:25 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:412: TypeError: newResetURL is undefined
+16:4:33 
+
+New log Mon Jun 29 2015 16:04:33 GMT-0500 (Central Standard Time)
+16:4:56 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:4:58 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:5:3 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:412: TypeError: newResetURL is undefined
+16:9:11 
+
+New log Mon Jun 29 2015 16:09:11 GMT-0500 (Central Standard Time)
+16:10:28 
+
+New log Mon Jun 29 2015 16:10:28 GMT-0500 (Central Standard Time)
+16:10:52 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:10:53 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:10:59 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=M1j2BZrbaj2FZxj2BAa27VgF9j2FOy3Dj2...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+16:10:59 reset-script: Current pass: Welcome12#
+16:10:59 reset-script: New password chosen: hXr`d?N@O7#w
+16:10:59 reset-script: windows.addEventListener() did not fire.
+16:16:12 
+
+New log Mon Jun 29 2015 16:16:12 GMT-0500 (Central Standard Time)
+16:16:36 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:16:37 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:16:43 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:412: TypeError: newResetURL is undefined
+16:17:53 
+
+New log Mon Jun 29 2015 16:17:53 GMT-0500 (Central Standard Time)
+16:18:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:18:17 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:18:22 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:412: TypeError: newResetURL is undefined
+16:18:51 
+
+New log Mon Jun 29 2015 16:18:51 GMT-0500 (Central Standard Time)
+16:19:16 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:16 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:16 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:16 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:17 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:17 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:17 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:17 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:18 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:18 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:18 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:18 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:19:19 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+16:19:19 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+16:20:8 
+
+New log Mon Jun 29 2015 16:20:08 GMT-0500 (Central Standard Time)
+16:20:27 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+16:20:29 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+16:20:35 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=tOqEGoQYb67otpBB02wTkybefxwj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+16:20:35 reset-script: Current pass: Welcome12#
+16:20:35 reset-script: New password chosen: lo^E0c{|/we$
+16:20:35 reset-script: windows.addEventListener() did not fire.
+16:25:15 
+
+New log Mon Jun 29 2015 16:25:15 GMT-0500 (Central Standard Time)
+16:25:37 reset-script: Resetting pass on https://www.facebook.com/...https://www.facebook.com/ with 6 forms
+16:25:39 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_p...602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+16:25:44 reset-script: Resetting pass on https://www.paypal.com/us/webapps/mpp/pay-online/?utm_source=BASx-FBMarketplace&...rcc=27722-210208-13764-483&spid=871702902233104858 with 2 forms
+16:25:50 reset-script: Resetting pass on https://www.paypal.com/webapps/accountrecovery/passwordrecovery?execution=e1s1...ps/accountrecovery/passwordrecovery?execution=e1s1 with 1 forms
+16:25:50 undefined:undefined: main-js: link to password reset page not found
+16:28:44 
+
+New log Mon Jun 29 2015 16:28:44 GMT-0500 (Central Standard Time)
+16:29:4 reset-script: Resetting pass on https://www.facebook.com/...https://www.facebook.com/ with 6 forms
+16:29:6 reset-script: Resetting pass on https://www.facebook.com/profile.php?id=100009603602460&sk=about&ref=home_edit_p...602460&sk=about&ref=home_edit_profile&section=work with 2 forms
+16:29:9 reset-script: Resetting pass on https://www.paypal.com/us/webapps/mpp/pay-online/?utm_source=BASx-FBMarketplace&...rcc=27722-210208-13764-501&spid=871702902233104858 with 2 forms
+16:29:11 reset-script: Resetting pass on https://www.paypal.com/webapps/accountrecovery/passwordrecovery?execution=e1s1...ps/accountrecovery/passwordrecovery?execution=e1s1 with 1 forms
+16:29:11 undefined:undefined: main-js: link to password reset page not found
+16:31:53 
+
+New log Mon Jun 29 2015 16:31:53 GMT-0500 (Central Standard Time)
+16:32:9 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+16:32:9 reset-script: Current pass: Welcome12#
+16:32:9 reset-script: New password chosen: ue"7K`%.{H"U
+16:32:9 reset-script: windows.addEventListener() did not fire.

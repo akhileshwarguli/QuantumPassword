@@ -2,7 +2,7 @@ var tagToAttach;
 
 self.port.on("start", function resetPass(enteredLogin, currentPass, resetEmail, inputTag) {
 	var forms = document.forms, found = false, toClick = null, toSend = null, pwInputs = [], tagToAttach = inputTag;
-	self.port.emit("logThis", "reset-script: Resetting pass on "+document.URL.toString()+" with "+document.forms.length+" forms");
+	self.port.emit("logThis", "reset-script: Resetting pass on "+document.URL.toString().slice(0,80)+"..."+document.URL.toString().slice(-50)+" with "+document.forms.length+" forms");
 	
 	// look at each form on the page to see if it's a password reset form
 	for (var i=0, tot=forms.length; i<tot && !found; i++) {
@@ -60,7 +60,7 @@ self.port.on("start", function resetPass(enteredLogin, currentPass, resetEmail, 
 		}
 		if (passwordForm) {
 			// assume the first form with a password field on the page is the reset form
-			break;
+			break; 
 		}
 	}
 	
@@ -152,6 +152,8 @@ function finishReset(newPass, pwInputs, clickable) {
 		self.port.emit("finished", pwBox.value);
 	});
 	clickable.click();
+	self.port.emit("logThis", "reset-script: windows.addEventListener() did not fire.");
+	self.port.emit("finished", pwBox.value);
 }
 
 // currently unused function
