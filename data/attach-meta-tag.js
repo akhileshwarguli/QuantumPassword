@@ -6,4 +6,5 @@ self.port.on("start", function (tagID) {
 	var x = document.createElement("meta"); 
 	x.id = tagID;
 	document.head.appendChild(x);
+	console.log("attach-meta-tag.js: "+tagID+" ATTACHED to "+document.URL);
 });

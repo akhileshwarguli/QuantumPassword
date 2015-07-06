@@ -5,8 +5,10 @@ self.port.on("start", function () {
 		text.indexOf("invalid temporary or current password") > -1 ||
 		text.indexOf("specified an incorrect or inactive username, or an invalid password") > 1 ||
 		text.indexOf("you are not allowed to login") > -1) {
+			console.debug("login-check-scripts-js: bad login");
 		self.port.emit("bad_login");
 	} else {
+		console.debug("login-check-scripts-js: good login");
 		self.port.emit("good_login");
 	}
 });

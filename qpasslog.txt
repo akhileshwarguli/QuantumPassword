@@ -821,3 +821,717 @@ New log Mon Jun 29 2015 16:31:53 GMT-0500 (Central Standard Time)
 16:32:9 reset-script: Current pass: Welcome12#
 16:32:9 reset-script: New password chosen: ue"7K`%.{H"U
 16:32:9 reset-script: windows.addEventListener() did not fire.
+10:28:41 
+
+New log Tue Jun 30 2015 10:28:41 GMT-0500 (Central Standard Time)
+10:29:50 reset-script: Resetting pass on https://www.linkedin.com/...https://www.linkedin.com/ with 12 forms
+10:29:54 reset-script: Resetting pass on https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile...ofile/edit?trk=nav_responsive_sub_nav_edit_profile with 7 forms
+10:29:54 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+10:42:25 
+
+New log Tue Jun 30 2015 10:42:25 GMT-0500 (Central Standard Time)
+10:42:45 reset-script: Resetting pass on https://www.linkedin.com/...https://www.linkedin.com/ with 12 forms
+10:42:49 reset-script: Resetting pass on https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile...ofile/edit?trk=nav_responsive_sub_nav_edit_profile with 7 forms
+10:42:49 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+11:14:53 
+
+New log Tue Jun 30 2015 11:14:53 GMT-0500 (Central Standard Time)
+11:15:14 reset-script: Resetting pass on https://www.linkedin.com/...https://www.linkedin.com/ with 13 forms
+11:15:18 reset-script: Resetting pass on https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile...ofile/edit?trk=nav_responsive_sub_nav_edit_profile with 7 forms
+11:15:18 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:425: Error: main-js: updatePassword: search produced no new URL, abandoning search
+11:18:18 
+
+New log Tue Jun 30 2015 11:18:18 GMT-0500 (Central Standard Time)
+11:18:24 Unable to attach submit listener: forms was null on undefined
+11:21:1 reset-script: Resetting pass on https://www.linkedin.com/...https://www.linkedin.com/ with 13 forms
+11:21:5 reset-script: Resetting pass on https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile...ofile/edit?trk=nav_responsive_sub_nav_edit_profile with 8 forms
+11:21:6 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:425: Error: main-js: updatePassword: search produced no new URL, abandoning search
+11:23:57 
+
+New log Tue Jun 30 2015 11:23:57 GMT-0500 (Central Standard Time)
+11:24:24 Unable to attach submit listener: forms was null on undefined
+12:7:51 
+
+New log Tue Jun 30 2015 12:07:51 GMT-0500 (Central Standard Time)
+12:8:2 Unable to attach submit listener: forms was null on undefined
+12:14:35 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:82: TypeError: worker is undefined
+12:15:28 
+
+New log Tue Jun 30 2015 12:15:28 GMT-0500 (Central Standard Time)
+12:15:32 Unable to attach submit listener: forms was null on undefined
+23:54:55 
+
+New log Tue Jun 30 2015 23:54:55 GMT-0500 (Central Standard Time)
+23:55:20 Unable to attach submit listener: forms was null on undefined
+0:0:29 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:82: TypeError: worker is undefined
+0:2:14 
+
+New log Wed Jul 01 2015 00:02:14 GMT-0500 (Central Standard Time)
+0:2:19 Unable to attach submit listener: forms was null on undefined
+0:29:0 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:82: TypeError: worker is undefined
+0:29:15 
+
+New log Wed Jul 01 2015 00:29:15 GMT-0500 (Central Standard Time)
+0:29:21 Unable to attach submit listener: forms was null on undefined
+0:31:44 reset-script: Resetting pass on https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1...kedin.com/uas/change-password?goback=.nas_*1_*1_*1 with 3 forms
+0:31:44 reset-script: Current pass: Welcome12#
+0:31:44 reset-script: New password chosen: dLU/,r0ov,A$
+0:31:44 reset-script: windows.addEventListener() did not fire.
+0:44:22 
+
+New log Wed Jul 01 2015 00:44:22 GMT-0500 (Central Standard Time)
+0:44:48 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+0:44:48 reset-script: Current pass: Welcome12#
+0:44:48 reset-script: New password chosen: ^muFX!B+g6`T
+0:44:48 reset-script: windows.addEventListener() did not fire.
+17:37:12 
+
+New log Wed Jul 01 2015 17:37:12 GMT-0500 (Central Standard Time)
+17:37:48 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+17:37:48 reset-script: Current pass: Welcome12#
+17:37:48 reset-script: New password chosen: Xc,z)RI1k6Z5
+17:37:48 reset-script: windows.addEventListener() did not fire.
+17:43:14 
+
+New log Wed Jul 01 2015 17:43:14 GMT-0500 (Central Standard Time)
+17:43:46 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+17:43:46 reset-script: Current pass: Welcome12#
+17:43:46 reset-script: New password chosen: =sk@>:V8L<KW
+17:43:46 reset-script: windows.addEventListener() did not fire.
+17:44:6 Unable to attach submit listener: forms was null on undefined
+17:45:13 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:46:15 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:46:41 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:47:5 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+17:52:13 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+18:12:21 
+
+New log Wed Jul 01 2015 18:12:21 GMT-0500 (Central Standard Time)
+18:12:58 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+18:12:58 reset-script: Current pass: Welcome12#
+18:12:58 reset-script: New password chosen: [WFSw*2?>zMi
+18:12:58 reset-script: windows.addEventListener() did not fire.
+18:15:6 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+19:10:6 
+
+New log Wed Jul 01 2015 19:10:06 GMT-0500 (Central Standard Time)
+19:10:54 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:10:56 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:11:1 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=jRrNjgCxl3BkNDXej2FnfCc4ZQj2BoMj3D...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:11:1 reset-script: Current pass: Welcome12#
+19:11:1 reset-script: New password chosen: \AD/T_Jr|,,&
+19:11:1 reset-script: windows.addEventListener() did not fire.
+21:49:49 
+
+New log Wed Jul 01 2015 21:49:49 GMT-0500 (Central Standard Time)
+21:50:19 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+21:50:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+21:50:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=KWJmvov8EKHt4YKzQG4VYK9gER8j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+21:50:27 reset-script: Current pass: Welcome12#
+21:50:27 reset-script: New password chosen: \u6;R3(NSvz[
+21:50:27 reset-script: windows.addEventListener() did not fire.
+22:1:24 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:424: Error: main-js: updatePassword: search produced no new URL, abandoning search
+22:22:41 
+
+New log Wed Jul 01 2015 22:22:41 GMT-0500 (Central Standard Time)
+22:23:18 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+22:23:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+22:23:26 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=1qHPSj2BAmQ1ZfDlmAcaplbmFej2Fwoj3D...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+22:23:26 reset-script: Current pass: Welcome12#
+22:23:26 reset-script: New password chosen: 0",Ft3j,]A^P
+22:23:26 reset-script: windows.addEventListener() did not fire.
+22:24:27 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+22:24:27 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+22:24:31 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+22:24:31 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+22:51:8 
+
+New log Wed Jul 01 2015 22:51:08 GMT-0500 (Central Standard Time)
+22:51:54 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+22:51:58 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+22:52:3 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=qTNd3TbTGByw4Ckfep464eHxNoAj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+22:52:3 reset-script: Current pass: Welcome12#
+22:52:3 reset-script: New password chosen: :yJ);[DzLEe7
+22:52:3 reset-script: windows.addEventListener() did not fire.
+22:53:1 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+22:53:1 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+22:53:1 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+22:53:1 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+22:53:1 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:82: TypeError: worker is undefined
+23:7:50 
+
+New log Wed Jul 01 2015 23:07:50 GMT-0500 (Central Standard Time)
+23:7:55 fliud.testuser@gmail.com set as default email address.
+23:8:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn...n.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+23:8:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+23:8:25 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=lkltPgevaco2YCAQ18cea4xfFegj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+23:8:25 reset-script: Current pass: Welcome12#
+23:8:25 reset-script: New password chosen: &Y&voPj}>Np$
+23:8:25 reset-script: windows.addEventListener() did not fire.
+23:9:35 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+23:9:36 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:427: Error: main-js: updatePassword: search produced no new URL, abandoning search
+1:16:1 
+
+New log Thu Jul 02 2015 01:16:01 GMT-0500 (Central Standard Time)
+1:16:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+1:16:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+1:16:33 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=IFw1ArIfrQ48A0glOIsdO1nz2F8j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+1:16:33 reset-script: Current pass: Welcome12#
+1:16:33 reset-script: New password chosen: _~*889B5S"Q.
+1:16:33 reset-script: windows.addEventListener() did not fire.
+5:7:57 
+
+New log Fri Jul 03 2015 05:07:57 GMT-0500 (Central Standard Time)
+5:9:0 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+5:9:0 reset-script: Current pass: Welcome12#
+5:9:0 reset-script: New password chosen: pAV?ErF>o/[M
+5:9:0 reset-script: windows.addEventListener() did not fire.
+5:32:31 
+
+New log Fri Jul 03 2015 05:32:31 GMT-0500 (Central Standard Time)
+5:32:52 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+5:32:52 reset-script: Current pass: Welcome12#
+5:32:52 reset-script: New password chosen: q<-M#7U6H*uY
+5:32:52 reset-script: windows.addEventListener() did not fire.
+7:5:27 
+
+New log Fri Jul 03 2015 07:05:27 GMT-0500 (Central Standard Time)
+7:5:57 reset-script: Resetting pass on https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsetting...om%2Fsettings%3Ftab%3Daccount%26section%3Dpassword with 1 forms
+7:5:57 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsettings%3Ftab%3Daccount%26section%3Dpassword
+7:10:48 
+
+New log Fri Jul 03 2015 07:10:48 GMT-0500 (Central Standard Time)
+7:11:12 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+7:11:12 reset-script: Current pass: Welcome12#
+7:11:12 reset-script: New password chosen: YxFgB@x3t3"}
+7:11:12 reset-script: windows.addEventListener() did not fire.
+7:13:27 
+
+New log Fri Jul 03 2015 07:13:27 GMT-0500 (Central Standard Time)
+7:13:47 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+7:13:47 reset-script: Current pass: Welcome12#
+7:13:47 reset-script: New password chosen: 2M{';YtwU@g(
+7:13:47 reset-script: windows.addEventListener() did not fire.
+7:16:7 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:427: Error: main-js: updatePassword: search produced no new URL, abandoning search
+7:28:51 
+
+New log Fri Jul 03 2015 07:28:51 GMT-0500 (Central Standard Time)
+7:29:20 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+7:29:20 reset-script: Current pass: Welcome12#
+7:29:20 reset-script: New password chosen: S`n+_d!ch^$Z
+7:29:20 reset-script: windows.addEventListener() did not fire.
+7:38:55 
+
+New log Fri Jul 03 2015 07:38:55 GMT-0500 (Central Standard Time)
+7:39:22 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+7:39:22 reset-script: Current pass: Welcome12#
+7:39:22 reset-script: New password chosen: >"U}V7u-'7jt
+7:39:22 reset-script: windows.addEventListener() did not fire.
+14:24:28 
+
+New log Fri Jul 03 2015 14:24:28 GMT-0500 (Central Standard Time)
+14:24:54 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+14:24:54 reset-script: Current pass: Welcome12#
+14:24:54 reset-script: New password chosen: hk@ufkp4tQS2
+14:24:54 reset-script: windows.addEventListener() did not fire.
+14:27:19 
+
+New log Fri Jul 03 2015 14:27:19 GMT-0500 (Central Standard Time)
+14:27:45 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+14:27:45 reset-script: Current pass: Welcome12#
+14:27:45 reset-script: New password chosen: 'O;be.ER/U#G
+14:27:45 reset-script: windows.addEventListener() did not fire.
+17:59:48 
+
+New log Fri Jul 03 2015 17:59:48 GMT-0500 (Central Standard Time)
+18:0:3 reset-script: Resetting pass on https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsetting...om%2Fsettings%3Ftab%3Daccount%26section%3Dpassword with 1 forms
+18:0:3 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsettings%3Ftab%3Daccount%26section%3Dpassword
+18:2:16 
+
+New log Fri Jul 03 2015 18:02:16 GMT-0500 (Central Standard Time)
+18:2:43 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+18:2:43 reset-script: Current pass: Welcome12#
+18:2:43 reset-script: New password chosen: 2d^Ls}Ud{px6
+18:2:43 reset-script: windows.addEventListener() did not fire.
+18:5:14 
+
+New log Fri Jul 03 2015 18:05:14 GMT-0500 (Central Standard Time)
+18:5:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:5:44 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:5:50 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=fuMSvWyDu0ndkGZa0o1xa7KaNN0j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:5:50 reset-script: Current pass: Welcome12#
+18:5:50 reset-script: New password chosen: oqSq\~QS6nvS
+18:5:50 reset-script: windows.addEventListener() did not fire.
+18:10:50 
+
+New log Fri Jul 03 2015 18:10:50 GMT-0500 (Central Standard Time)
+18:11:21 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:11:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:11:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=HaVK9K34JU3sAj2F6e9uFaLOeGfO8j3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:11:27 reset-script: Current pass: Welcome12#
+18:11:27 reset-script: New password chosen: 74SM.Kkr2u2)
+18:11:27 reset-script: windows.addEventListener() did not fire.
+18:29:3 
+
+New log Fri Jul 03 2015 18:29:03 GMT-0500 (Central Standard Time)
+18:29:36 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:29:38 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:29:43 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=XIRdbjj2Fift5gWg2q212HzrHy9ksj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:29:43 reset-script: Current pass: Welcome12#
+18:29:43 reset-script: New password chosen: 4tZcM<{zlD6>
+18:29:43 reset-script: windows.addEventListener() did not fire.
+18:31:2 resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-m1uedcivkj4yxa-at-jetpack/quantumpasswords/lib/main.js:427: Error: main-js: updatePassword: search produced no new URL, abandoning search
+19:35:50 
+
+New log Fri Jul 03 2015 19:35:50 GMT-0500 (Central Standard Time)
+19:36:21 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:36:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:36:28 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=c0x57qZFxfsdwlj2F8B1sHq7U8pSkj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:36:28 reset-script: Current pass: Welcome12#
+19:36:28 reset-script: New password chosen: OgM,.q,Uqz]r
+19:36:28 reset-script: windows.addEventListener() did not fire.
+19:37:23 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:37:24 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:37:30 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=c0x57qZFxfsdwlj2F8B1sHq7U8pSkj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:37:30 reset-script: Current pass: OgM,.q,Uqz]r
+19:37:30 reset-script: New password chosen: SgW/<$vg_)7+
+19:37:30 reset-script: windows.addEventListener() did not fire.
+19:39:40 
+
+New log Fri Jul 03 2015 19:39:40 GMT-0500 (Central Standard Time)
+19:40:11 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+19:40:11 reset-script: Current pass: Welcome12#
+19:40:11 reset-script: New password chosen: SFLU$x1?+V%d
+19:40:11 reset-script: windows.addEventListener() did not fire.
+19:41:18 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+19:41:18 reset-script: Current pass: SFLU$x1?+V%d
+19:41:18 reset-script: New password chosen: 'fIl(QO+YAL9
+19:41:18 reset-script: windows.addEventListener() did not fire.
+21:11:42 
+
+New log Fri Jul 03 2015 21:11:42 GMT-0500 (Central Standard Time)
+21:12:31 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+21:12:31 reset-script: Current pass: Welcome12#
+21:12:31 reset-script: New password chosen: KA<Uf%,(eb]:
+21:12:31 reset-script: windows.addEventListener() did not fire.
+21:17:4 
+
+New log Fri Jul 03 2015 21:17:04 GMT-0500 (Central Standard Time)
+21:17:28 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+21:17:28 reset-script: Current pass: Welcome12#
+21:17:28 reset-script: New password chosen: r"o;^4w;n~xf
+21:17:28 reset-script: windows.addEventListener() did not fire.
+0:32:1 
+
+New log Sat Jul 04 2015 00:32:01 GMT-0500 (Central Standard Time)
+0:33:1 
+
+New log Sat Jul 04 2015 00:33:01 GMT-0500 (Central Standard Time)
+0:33:4 Unable to attach submit listener: forms was null on undefined
+0:35:16 
+
+New log Sat Jul 04 2015 00:35:16 GMT-0500 (Central Standard Time)
+0:35:27 Unable to attach submit listener: forms was null on undefined
+0:39:42 
+
+New log Sat Jul 04 2015 00:39:42 GMT-0500 (Central Standard Time)
+0:40:10 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+0:40:10 reset-script: Current pass: Welcome12#
+0:40:10 reset-script: New password chosen: ?'=Q|alU36E,
+0:40:10 reset-script: windows.addEventListener() did not fire.
+0:45:51 
+
+New log Sat Jul 04 2015 00:45:51 GMT-0500 (Central Standard Time)
+0:47:33 Unable to attach submit listener: forms was null on undefined
+0:50:43 
+
+New log Sat Jul 04 2015 00:50:43 GMT-0500 (Central Standard Time)
+0:52:1 Unable to attach submit listener: forms was null on undefined
+1:4:26 
+
+New log Sat Jul 04 2015 01:04:26 GMT-0500 (Central Standard Time)
+1:4:44 Unable to attach submit listener: forms was null on undefined
+1:8:0 
+
+New log Sat Jul 04 2015 01:08:00 GMT-0500 (Central Standard Time)
+1:8:18 Unable to attach submit listener: forms was null on undefined
+1:8:24 Unable to attach submit listener: forms was null on undefined
+1:13:40 
+
+New log Sat Jul 04 2015 01:13:40 GMT-0500 (Central Standard Time)
+1:16:10 
+
+New log Sat Jul 04 2015 01:16:10 GMT-0500 (Central Standard Time)
+1:16:33 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+1:16:33 reset-script: Current pass: Welcome12#
+1:16:33 reset-script: New password chosen: G0l3;r1&?>Pp
+1:16:33 reset-script: windows.addEventListener() did not fire.
+1:18:12 
+
+New log Sat Jul 04 2015 01:18:12 GMT-0500 (Central Standard Time)
+1:18:33 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+1:18:35 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+1:18:41 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=DfMBEWjUGZhPj2FUSmW9OVoQ1JigEj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+1:18:41 reset-script: Current pass: Welcome12#
+1:18:41 reset-script: New password chosen: gl~Rl'(gFCe\
+1:18:41 reset-script: windows.addEventListener() did not fire.
+1:25:47 
+
+New log Sat Jul 04 2015 01:25:47 GMT-0500 (Central Standard Time)
+1:26:6 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+1:26:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+1:26:13 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=5ouO0Nn8Wj2F2FfWEtPDG4aBtFVjEj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+1:26:13 reset-script: Current pass: Welcome12#
+1:26:13 reset-script: New password chosen: g^WV9m9OLGeu
+1:26:13 reset-script: windows.addEventListener() did not fire.
+1:33:4 
+
+New log Sat Jul 04 2015 01:33:04 GMT-0500 (Central Standard Time)
+1:33:10 Unable to attach submit listener: forms was null on undefined
+2:22:47 
+
+New log Sat Jul 04 2015 02:22:47 GMT-0500 (Central Standard Time)
+2:23:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:23:16 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+2:23:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=Nqz1qnLyl9bMVf0mFOZhrmhGzOUj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+2:23:22 reset-script: Current pass: Welcome12#
+2:23:22 reset-script: New password chosen: (.HVq..,/K]x
+2:23:22 reset-script: windows.addEventListener() did not fire.
+18:17:34 
+
+New log Sun Jul 05 2015 18:17:34 GMT-0500 (Central Standard Time)
+18:18:7 Unable to attach submit listener: forms was null on undefined
+18:19:25 
+
+New log Sun Jul 05 2015 18:19:25 GMT-0500 (Central Standard Time)
+18:19:59 Entered login was null, unable to store new credentials
+18:23:51 
+
+New log Sun Jul 05 2015 18:23:51 GMT-0500 (Central Standard Time)
+18:24:18 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:24:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:24:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=uJbhYpEr1vjabFoombTBSKogfI0j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:24:27 reset-script: Current pass: Welcome12#
+18:24:27 reset-script: New password chosen: iF,)NuZfBF%F
+18:24:27 reset-script: windows.addEventListener() did not fire.
+18:45:22 
+
+New log Sun Jul 05 2015 18:45:22 GMT-0500 (Central Standard Time)
+18:46:15 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:46:16 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:46:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=ttsTrBQzdvrvwgDHGFMtzTnj8j2BEj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:46:21 reset-script: Current pass: Welcome12#
+18:46:21 reset-script: New password chosen: ]:N*^f}mAy\*
+18:46:21 reset-script: windows.addEventListener() did not fire.
+18:51:3 
+
+New log Sun Jul 05 2015 18:51:03 GMT-0500 (Central Standard Time)
+18:51:26 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:51:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:51:32 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=EVnElhfKWl7fBc0j2F8bLj2FgFXRLpUj3D...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:51:32 reset-script: Current pass: Welcome12#
+18:51:32 reset-script: New password chosen: or{cf+<9Yym~
+18:51:32 reset-script: windows.addEventListener() did not fire.
+18:53:3 
+
+New log Sun Jul 05 2015 18:53:03 GMT-0500 (Central Standard Time)
+18:53:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:53:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:53:32 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=RIss18QE5UfARnbLok6EF5cXde0j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:53:32 reset-script: Current pass: Welcome12#
+18:53:32 reset-script: New password chosen: Mw~^v7{e[b4f
+18:53:32 reset-script: windows.addEventListener() did not fire.
+18:57:15 
+
+New log Sun Jul 05 2015 18:57:15 GMT-0500 (Central Standard Time)
+18:57:37 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+18:57:38 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+18:57:44 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=b0ihrJckpw4T6fn4TFTv82j71a0j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+18:57:44 reset-script: Current pass: Welcome12#
+18:57:44 reset-script: New password chosen: 5S!w:f+=2V>Z
+18:57:44 reset-script: windows.addEventListener() did not fire.
+19:25:40 
+
+New log Sun Jul 05 2015 19:25:40 GMT-0500 (Central Standard Time)
+19:26:14 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:26:15 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:26:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=HRWori0W6RlCcvZd7Qklv2cubRgj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:26:21 reset-script: Current pass: Welcome12#
+19:26:21 reset-script: New password chosen: R:Op'EZC/M0X
+19:26:21 reset-script: windows.addEventListener() did not fire.
+19:37:15 
+
+New log Sun Jul 05 2015 19:37:15 GMT-0500 (Central Standard Time)
+19:37:44 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:37:47 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:37:52 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=7YcjM6fqZ4ajAC0AKXHtOqleACQj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:37:52 reset-script: Current pass: Welcome12#
+19:37:52 reset-script: New password chosen: ONzU6:z7?Rc{
+19:37:52 reset-script: windows.addEventListener() did not fire.
+19:46:23 
+
+New log Sun Jul 05 2015 19:46:23 GMT-0500 (Central Standard Time)
+19:46:45 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+19:46:47 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:46:53 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=EgUR4SuskmjmKi0NCSaoj2BQw6F3Yj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:46:53 reset-script: Current pass: Welcome12#
+19:46:53 reset-script: New password chosen: q(_uO"P{2Zs;
+19:46:53 reset-script: windows.addEventListener() did not fire.
+19:56:45 
+
+New log Sun Jul 05 2015 19:56:45 GMT-0500 (Central Standard Time)
+19:57:4 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn...n.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+19:57:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+19:57:13 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=R9j2BoqfGSAfOmHabRiYpn61H7Vysj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+19:57:13 reset-script: Current pass: Welcome12#
+19:57:13 reset-script: New password chosen: ?47uGG[uag<Z
+19:57:13 reset-script: windows.addEventListener() did not fire.
+20:55:14 
+
+New log Sun Jul 05 2015 20:55:14 GMT-0500 (Central Standard Time)
+20:59:28 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn...n.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+20:59:30 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+20:59:35 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=j2BHLzj2Fj2BBSJACI2gIxxLFanb1diukj...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+20:59:35 reset-script: Current pass: Welcome12#
+20:59:35 reset-script: New password chosen: s?|&DXxEOsS|
+20:59:35 reset-script: windows.addEventListener() did not fire.
+21:12:3 
+
+New log Sun Jul 05 2015 21:12:03 GMT-0500 (Central Standard Time)
+21:12:30 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+21:12:32 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+21:12:37 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=Y8pqvn7zyfOleFTKh3cSkdirUngj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+21:12:37 reset-script: Current pass: Welcome12#
+21:12:37 reset-script: New password chosen: J>gH>{8#x)&a
+21:12:37 reset-script: windows.addEventListener() did not fire.
+22:25:37 
+
+New log Sun Jul 05 2015 22:25:37 GMT-0500 (Central Standard Time)
+22:26:11 reset-script: Resetting pass on https://www.amazon.com/ap/signin...https://www.amazon.com/ap/signin with 2 forms
+22:26:11 undefined:undefined: Error: Password change not submitted despite password form being found on https://www.amazon.com/ap/signin
+22:29:31 
+
+New log Sun Jul 05 2015 22:29:31 GMT-0500 (Central Standard Time)
+22:29:52 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_btn...n.com/gp/css/homepage.html/ref=nav_youraccount_btn with 3 forms
+22:29:56 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+22:30:2 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=Zof4bEf6rjoDOuvdty3Alj42keEj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+22:30:2 reset-script: Current pass: Welcome12#
+22:30:2 reset-script: New password chosen: u)^XYqmjIpi(
+22:30:2 reset-script: windows.addEventListener() did not fire.
+22:39:27 
+
+New log Sun Jul 05 2015 22:39:27 GMT-0500 (Central Standard Time)
+22:39:54 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+22:39:56 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+22:40:1 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=zCbheUQ2Oz5w6M6Qxuz7fvhzXhsj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+22:40:1 reset-script: Current pass: Welcome12#
+22:40:1 reset-script: New password chosen: 4zu[RX%1^$B$
+22:40:1 reset-script: windows.addEventListener() did not fire.
+23:24:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=zCbheUQ2Oz5w6M6Qxuz7fvhzXhsj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+23:24:7 reset-script: Current pass: 4zu[RX%1^$B$
+23:24:7 reset-script: New password chosen: U,%UWN*rqkri
+23:24:7 reset-script: windows.addEventListener() did not fire.
+23:44:38 
+
+New log Sun Jul 05 2015 23:44:38 GMT-0500 (Central Standard Time)
+23:45:0 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+23:45:2 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+23:45:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=puMs8nFaj2FgL74LIXRxMJgTzbKakj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+23:45:7 reset-script: Current pass: Welcome12#
+23:45:7 reset-script: New password chosen: |?Y+px:[;TQ<
+23:45:7 reset-script: windows.addEventListener() did not fire.
+23:54:58 
+
+New log Sun Jul 05 2015 23:54:58 GMT-0500 (Central Standard Time)
+0:16:28 
+
+New log Mon Jul 06 2015 00:16:28 GMT-0500 (Central Standard Time)
+0:16:48 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+0:16:49 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:16:54 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=3jv27LVMI8NKOw3WUkj2FgtS3RvhQj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+0:16:54 reset-script: Current pass: Welcome12#
+0:16:54 reset-script: New password chosen: :cCbOlvd3"Pr
+0:16:54 reset-script: windows.addEventListener() did not fire.
+0:19:41 
+
+New log Mon Jul 06 2015 00:19:41 GMT-0500 (Central Standard Time)
+0:19:59 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+0:20:1 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:20:6 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=mHFvCdVHxXPrWIoC4wYbgcTtkmsj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+0:20:6 reset-script: Current pass: Welcome12#
+0:20:6 reset-script: New password chosen: @E4}*N=/K%H:
+0:20:6 reset-script: windows.addEventListener() did not fire.
+0:24:41 
+
+New log Mon Jul 06 2015 00:24:41 GMT-0500 (Central Standard Time)
+0:25:29 
+
+New log Mon Jul 06 2015 00:25:29 GMT-0500 (Central Standard Time)
+0:27:23 
+
+New log Mon Jul 06 2015 00:27:23 GMT-0500 (Central Standard Time)
+0:27:43 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+0:27:44 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+0:27:50 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=bFPC2kTO0Nbnu4QslYj2BoIgkfmzcj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+0:27:50 reset-script: Current pass: Welcome12#
+0:27:50 reset-script: New password chosen: aG'?{Sio=tgR
+0:27:50 reset-script: windows.addEventListener() did not fire.
+1:57:25 
+
+New log Mon Jul 06 2015 01:57:25 GMT-0500 (Central Standard Time)
+2:2:29 
+
+New log Mon Jul 06 2015 02:02:29 GMT-0500 (Central Standard Time)
+2:6:9 
+
+New log Mon Jul 06 2015 02:06:09 GMT-0500 (Central Standard Time)
+2:7:4 
+
+New log Mon Jul 06 2015 02:07:04 GMT-0500 (Central Standard Time)
+2:7:20 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:7:22 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+2:7:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=fSoj2Bev60g8YAwiR5PYfMQ5ZyZJcj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+2:7:27 reset-script: Current pass: Welcome12#
+2:7:27 reset-script: New password chosen: %632Axz7@H$#
+2:7:27 reset-script: windows.addEventListener() did not fire.
+2:10:36 
+
+New log Mon Jul 06 2015 02:10:36 GMT-0500 (Central Standard Time)
+2:10:53 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+2:10:54 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+2:11:0 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=j2BXxtn6b2U5jd9Tj2FuI4SP1dUHiRwj3D...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+2:11:0 reset-script: Current pass: Welcome12#
+2:11:0 reset-script: New password chosen: ]Z6$/,SuK=Fr
+2:11:0 reset-script: windows.addEventListener() did not fire.
+3:1:57 
+
+New log Mon Jul 06 2015 03:01:57 GMT-0500 (Central Standard Time)
+3:2:19 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+3:2:21 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+3:2:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=XWSi4fhatURNnBKUptEB7MUHZbEj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:2:27 reset-script: Current pass: Welcome12#
+3:2:27 reset-script: New password chosen: C#eG8Bed8'>S
+3:2:27 reset-script: windows.addEventListener() did not fire.
+3:8:27 
+
+New log Mon Jul 06 2015 03:08:27 GMT-0500 (Central Standard Time)
+3:8:51 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+3:8:53 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+3:8:58 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=nfmKfPoUVSGQQU0DpaZB8yr7gb4j3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:8:58 reset-script: Current pass: Welcome12#
+3:8:58 reset-script: New password chosen: bPc:jt?h>j[g
+3:8:58 reset-script: windows.addEventListener() did not fire.
+3:20:41 
+
+New log Mon Jul 06 2015 03:20:41 GMT-0500 (Central Standard Time)
+3:21:8 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+3:21:10 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+3:21:16 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=kujzucR3pTB5DtOGozZqNjhep5Qj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:21:16 reset-script: Current pass: Welcome12#
+3:21:16 reset-script: New password chosen: bsn_>zSOH-H@
+3:21:16 reset-script: windows.addEventListener() did not fire.
+3:29:12 
+
+New log Mon Jul 06 2015 03:29:12 GMT-0500 (Central Standard Time)
+3:29:31 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+3:29:33 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+3:29:38 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=naJDsSKLnL6pacO7ZZG59hNHG7Yj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:29:38 reset-script: Current pass: Welcome12#
+3:29:38 reset-script: New password chosen: $/>=Y,}E~[/J
+3:29:38 reset-script: windows.addEventListener() did not fire.
+3:36:40 
+
+New log Mon Jul 06 2015 03:36:40 GMT-0500 (Central Standard Time)
+3:37:2 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+3:37:6 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+3:37:11 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=traS9Fj2FaJj2BoiR8KXxt4bj2F3wD1j2B...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:37:11 reset-script: Current pass: Welcome12#
+3:37:11 reset-script: New password chosen: X;%jP)X8%dsD
+3:37:11 reset-script: windows.addEventListener() did not fire.
+3:59:55 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=traS9Fj2FaJj2BoiR8KXxt4bj2F3wD1j2B...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+3:59:55 reset-script: Current pass: X;%jP)X8%dsD
+3:59:55 reset-script: New password chosen: ldZhZ'-j.(wU
+3:59:55 reset-script: windows.addEventListener() did not fire.
+4:1:5 
+
+New log Mon Jul 06 2015 04:01:05 GMT-0500 (Central Standard Time)
+4:1:25 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:1:27 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:1:33 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=ThONb8BJ1bL1n6ho9p1bDcP04sQj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:1:33 reset-script: Current pass: Welcome12#
+4:1:33 reset-script: New password chosen: ?<c7^cTY{U'9
+4:1:33 reset-script: windows.addEventListener() did not fire.
+4:3:54 
+
+New log Mon Jul 06 2015 04:03:54 GMT-0500 (Central Standard Time)
+4:4:18 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:4:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:4:25 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=VmXSVIqIHHAXsU3iQLY4foeMxVkj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:4:25 reset-script: Current pass: Welcome12#
+4:4:25 reset-script: New password chosen: UGU.Lq_%j`#$
+4:4:25 reset-script: windows.addEventListener() did not fire.
+4:8:59 
+
+New log Mon Jul 06 2015 04:08:59 GMT-0500 (Central Standard Time)
+4:9:19 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:9:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:9:26 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=vOteT7xPivcGdZuj2FXNGpFKr7SOMj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:9:26 reset-script: Current pass: Welcome12#
+4:9:26 reset-script: New password chosen: XgN|z(MXDV+s
+4:9:26 reset-script: windows.addEventListener() did not fire.
+4:9:36 main-js: Credentials stored: fliud.testuser@gmail.com XgN|z(MXDV+s
+4:10:58 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:11:0 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:11:6 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=vOteT7xPivcGdZuj2FXNGpFKr7SOMj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:11:6 reset-script: Current pass: XgN|z(MXDV+s
+4:11:6 reset-script: New password chosen: %."GDi*W7f(A
+4:11:6 reset-script: windows.addEventListener() did not fire.
+4:11:16 main-js: Credentials stored: fliud.testuser@gmail.com %."GDi*W7f(A
+4:14:57 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+4:14:57 reset-script: Current pass: Welcome12#
+4:14:57 reset-script: New password chosen: E6ciuz0(hqHQ
+4:14:57 reset-script: windows.addEventListener() did not fire.
+4:15:8 main-js: Credentials stored: fliud.testuser@gmail.com E6ciuz0(hqHQ
+4:16:0 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:16:1 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:16:7 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=vOteT7xPivcGdZuj2FXNGpFKr7SOMj3D&a...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:16:7 reset-script: Current pass: %."GDi*W7f(A
+4:16:7 reset-script: New password chosen: _hr$P0-h+K,_
+4:16:7 reset-script: windows.addEventListener() did not fire.
+4:16:17 main-js: Credentials stored: fliud.testuser@gmail.com _hr$P0-h+K,_
+4:17:29 reset-script: Resetting pass on https://www.facebook.com/settings?tab=account&section=password...facebook.com/settings?tab=account&section=password with 2 forms
+4:17:29 reset-script: Current pass: E6ciuz0(hqHQ
+4:17:29 reset-script: New password chosen: ~O!6wo:u)&\;
+4:17:29 reset-script: windows.addEventListener() did not fire.
+4:17:39 main-js: Credentials stored: fliud.testuser@gmail.com ~O!6wo:u)&\;
+4:21:2 
+
+New log Mon Jul 06 2015 04:21:02 GMT-0500 (Central Standard Time)
+4:21:33 reset-script: Resetting pass on https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1...kedin.com/uas/change-password?goback=.nas_*1_*1_*1 with 3 forms
+4:21:33 reset-script: Current pass: Welcome12#
+4:21:33 reset-script: New password chosen: SI@H24j-@X<N
+4:21:33 reset-script: windows.addEventListener() did not fire.
+4:21:43 main-js: Credentials stored: fliud.testuser@gmail.com SI@H24j-@X<N
+4:22:18 reset-script: Resetting pass on https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1...kedin.com/uas/change-password?goback=.nas_*1_*1_*1 with 3 forms
+4:22:18 reset-script: Current pass: SI@H24j-@X<N
+4:22:18 reset-script: New password chosen: .Ga{1R"'3Kqc
+4:22:18 reset-script: windows.addEventListener() did not fire.
+4:22:28 main-js: Credentials stored: fliud.testuser@gmail.com .Ga{1R"'3Kqc
+4:37:36 
+
+New log Mon Jul 06 2015 04:37:36 GMT-0500 (Central Standard Time)
+4:38:12 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:38:14 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:38:20 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=E11lqdTKI2oGUqMVHKJZK1VCUuYj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:38:20 reset-script: Current pass: Welcome12#
+4:38:20 reset-script: New password chosen: ;q8\PUHG9OrH
+4:38:20 reset-script: windows.addEventListener() did not fire.
+4:46:25 
+
+New log Mon Jul 06 2015 04:46:25 GMT-0500 (Central Standard Time)
+4:46:48 reset-script: Resetting pass on https://www.amazon.com/gp/css/homepage.html/ref=nav_youraccount_ya...on.com/gp/css/homepage.html/ref=nav_youraccount_ya with 3 forms
+4:46:50 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?_encoding=UTF8&openid.assoc_handle=usflex&openid....2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_cnep with 6 forms
+4:46:55 reset-script: Resetting pass on https://www.amazon.com/ap/cnep?appActionToken=75IvgW96t3N82rSSY2vaDfwHPpUj3D&app...jA%3D&email=ape%3AZmxpdWQudGVzdHVzZXJAZ21haWwuY29t with 3 forms
+4:46:55 reset-script: Current pass: Welcome12#
+4:46:55 reset-script: New password chosen: aIl"B@Hp}JIk
+4:46:55 reset-script: windows.addEventListener() did not fire.

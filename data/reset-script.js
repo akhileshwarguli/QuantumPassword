@@ -146,11 +146,14 @@ function finishReset(newPass, pwInputs, clickable) {
 		pwBox = pwInputs[i];
 	}
 	
+	/* Commented since  window.addEventListener() doesn't seem to get fired.
+		self.port.emit() is moved to line# 159
+	*/
 	// attach listener for page unload
-	window.addEventListener("onload", function(){
+	/* window.addEventListener("onload", function(){
 		attachTag(tagToAttach);
 		self.port.emit("finished", pwBox.value);
-	});
+	}); */
 	clickable.click();
 	self.port.emit("logThis", "reset-script: windows.addEventListener() did not fire.");
 	self.port.emit("finished", pwBox.value);

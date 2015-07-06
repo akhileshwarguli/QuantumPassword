@@ -81,11 +81,14 @@ self.port.on("start", function(closeableTabID, formSubmittedID, history) {
 	if (formFound) {
 		console.log("find-reset-url-script: Reset URL found in form: "+resetLink.toString().slice(0,80)+"..."+resetLink.toString().slice(-50));
 		
+		/* Commented since  window.addEventListener() doesn't seem to get fired.
+		self.port.emit() is moved to line# 112
+		*/
 		// attach listener for page unload
-		window.addEventListener("onload", function(){
+		/* window.addEventListener("onload", function(){
 			console.log("window.addEventListener(\"onload\")");
 			self.port.emit("foundForm", resetLink);
-		});
+		}); */
 		createAndClickSubmitButton(form);
 	} else if (found > -1) {
 		console.log("find-reset-url-script: Reset URL Priority: "+found);
