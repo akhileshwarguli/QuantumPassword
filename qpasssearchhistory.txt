@@ -2,3 +2,7 @@
 https://www.facebook.com/	https://www.facebook.com/settings?tab=account&section=password
 
 https://www.linkedin.com/	https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1
+
+https://login.yahoo.com/	https://edit.yahoo.com/config/change_pw?.scrumb=hTz9QAQX1LF&.done=https%3A%2F%2Fedit.yahoo.com%2Fmc2.0%2Feval_profile%3F.scrumb%3DhTz9QAQX1LF%26.scrumb2%3Dkc1DSFrC5EJ
+
+https://accounts.craigslist.org/	https://accounts.craigslist.org/login/home?show_tab=settings,https://accounts.craigslist.org/login/home?show_tab=settings,https://accounts.craigslist.org/pass
