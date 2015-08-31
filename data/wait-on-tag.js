@@ -17,7 +17,7 @@ self.port.on("start", function (tagID) {
 	if (document.getElementById(tagID) == null) {
 		self.port.emit("error", "wait-on-tag.js: tagID not found after "+max_count+" iterations.");
 	} else {
-		console.log("wait-on-tag.js: EMIT FOUND "+tagID);
+		//console.log("wait-on-tag.js: EMIT FOUND "+tagID);
 		self.port.emit("found");
 	}
 });

@@ -1,11 +1,34 @@
 [URL of the site's login page]	[URL of the site's password reset page]
 https://accounts.google.com/	https://accounts.google.com/b/0/EditPasswd?hl=en
-https://www.facebook.com/	https://www.facebook.com/settings?tab=account&section=password
 http://tgdmb.com/	http://tgdmb.com/profile.php?mode=editprofile
 http://www.tgdmb.com/	http://tgdmb.com/profile.php?mode=editprofile
-https://pib.secure-banking.com/60394001/	https://pib.secure-banking.com/60394001/PrefChangePassword.faces
-https://pib.secure-banking.com/60393001/	https://pib.secure-banking.com/60393001/PrefChangePassword.faces
 http://www.linkedin.com/	https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1
 https://www.linkedin.com/	https://www.linkedin.com/uas/change-password?goback=.nas_*1_*1_*1
+https://pib.secure-banking.com/60394001/	https://pib.secure-banking.com/60394001/PrefChangePassword.faces
+https://pib.secure-banking.com/60393001/	https://pib.secure-banking.com/60393001/PrefChangePassword.faces
 https://login.yahoo.com/	https://edit.yahoo.com/config/change_pw?.scrumb=hTz9QAQX1LF&.done=https%3A%2F%2Fedit.yahoo.com%2Fmc2.0%2Feval_profile%3F.scrumb%3DhTz9QAQX1LF%26.scrumb2%3Dkc1DSFrC5EJ
 https://accounts.craigslist.org/	https://accounts.craigslist.org/pass
+
+http://www.reddit.com/	https://www.reddit.com/prefs/update/
+https://secure.imdb.com/	https://secure.imdb.com/register-imdb/changepas
+http://fc2.com/	https://secure.id.fc2.com/edit.php?mode=edit_password
+https://twitter.com/	https://twitter.com/settings/password
+http://vk.com/	http://vk.com/settings
+https://www.paypal.com/	https://www.paypal.com/myaccount/settings/password/edit/
+https://adobeid-na1.services.adobe.com/	https://accounts.adobe.com/security/change-password
+https://www.godaddy.com/	https://mya.godaddy.com/settings.aspx?
+
+https://signin.ebay.com/	http://pages.ebay.com/help/account/change-password.html
+
+https://en.wikipedia.org/	https://en.wikipedia.org/w/index.php?title=Special:ChangePassword&returnto=Special%3APreferences
+
+https://thepiratebay.la/	https://thepiratebay.la/settings
+
+https://vimeo.com/	https://vimeo.com/settings
+
+https://www.pinterest.com/	https://www.pinterest.com/settings/
+
+https://www.facebook.com/	https://www.facebook.com/settings?tab=account&section=password
+
+https://www.slideshare.net/	https://www.slideshare.net/fliudtestuser89/edit_manage_accounts
+https://www.tumblr.com/	https://www.tumblr.com/settings/account
